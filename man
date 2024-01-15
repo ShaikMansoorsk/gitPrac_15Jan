@@ -1,0 +1,3 @@
+Hi man,
+This file is for practice of git
+Thanks!! 
